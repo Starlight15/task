@@ -28,6 +28,7 @@ public class FileInsertTest {
     public void testoo(){
         boolean flag = false;
         assert flag : System.out.printf("flag is false");
+        System.out.println();
     }
 
 }
